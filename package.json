@@ -30,8 +30,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "wp": "webpack --desplay-error-details --progress --colors --watch",
-    "start": "node server"
+    "dev": "webpack --desplay-error-details --progress --colors --watch",
+    "server": "node server"
   },
   "author": "",
   "license": "ISC"
